@@ -11,4 +11,4 @@ In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In Se
 * [Marina Lopez](mailto:marina@art.coop), Co-Organizer
 * [Sruti Suryanarayanan](mailto:sruti@art.coop), Co-Organizer
 * [Caroline Woolard](mailto:carolinewoolard@gmail.com), Co-Organizer
-* [Nati Linares](mailto:nlinares@gmail.com), Co-Organizer in Orbit
+* [Nati Linares](mailto:nlinares@gmail.com), Co-Organizer
