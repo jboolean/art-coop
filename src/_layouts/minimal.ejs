@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Site by Julian Boilen, julianboilen.com -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <% if (page.url === '/' || !locals.title) { %>
+    <title><%= site.title %></title>
+    <% } else { %>
+    <title><%= locals.title %></title>
+    <% } %>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <script src="/assets/scripts/popup.js"></script>
+    <script src="/assets/scripts/registerInterstitials.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/flickity@2/dist/flickity.min.css"
+    />
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <%- include('/fonts') %> <%- include('/analytics') %>
+
+    <!-- https://www.netlifycms.org/docs/add-to-your-site/#add-the-netlify-identity-widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', (user) => {
+          if (!user) {
+            window.netlifyIdentity.on('login', () => {
+              document.location.href = '/admin/';
+            });
+          }
+        });
+      }
+    </script>
+
+    <%- include('/favicon') %>
+  </head>
+  <body>
+    <%- include('/popup') %> <%- content %>
+  </body>
+</html>
