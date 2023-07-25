@@ -1,12 +1,23 @@
 ---
 title: Contact
-hideInNavigation: false
-position: 5010
-anchor: Contact
+hideInNavigation: true
+position: 5020
 ---
 
-Let's connect! :)
+### Email
 
-Email: [marina lopez](mailto:marina@art.coop), [sruti suryanarayanan](mailto:sruti@art.coop), [nati conrazon](mailto:nlinares@gmail.com), [caroline woolard](mailto:carolinewoolard@gmail.com)\
-Instagram: [@\_artcoop](https://www.instagram.com/_artcoop/)\
-Twitter: [@\_artcoop](https://twitter.com/_artcoop)
+- [Marina Lopez](mailto:marina@art.coop), Co-Organizer
+- [Sruti Suryanarayanan](mailto:sruti@art.coop), Co-Organizer
+- [Caroline Woolard](mailto:carolinewoolard@gmail.com), Co-Organizer
+- [Nati Linares](mailto:nlinares@gmail.com), Co-Organizer in Orbit
+- [Ebony Gustave](mailto:cooperativejournal@gmail.com), Co-Organizer
+- [Robin Bean Crane](mailto:k.bean.crane@gmail.com), Co-Organizer
+
+### Social Media
+
+- Instagram: [@\_artcoop](https://www.instagram.com/_artcoop/)
+- Twitter: [@\_artcoop](https://twitter.com/_artcoop)
+
+### Receive emails about upcoming events
+
+<%- include('/email-signup-form') %>

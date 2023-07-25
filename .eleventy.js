@@ -17,6 +17,7 @@ md.use(mila, [
 // Correspond to class names in markdown-containers.less
 md.use(mic, 'break-inside-avoid');
 md.use(mic, 'columns');
+md.use(mic, 'item');
 md.enable('table');
 md.disable('code');
 

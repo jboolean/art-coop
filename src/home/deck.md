@@ -1,5 +1,5 @@
 ---
-title: Deck
+title: Introduction to the Solidarity Economy
 hideInNavigation: true
 position: 2020
 anchor: deck
