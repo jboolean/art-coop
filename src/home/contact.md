@@ -9,7 +9,7 @@ position: 5020
 - [Marina Lopez](mailto:marina@art.coop), Co-Organizer
 - [Sruti Suryanarayanan](mailto:sruti@art.coop), Co-Organizer
 - [Caroline Woolard](mailto:carolinewoolard@gmail.com), Co-Organizer
-- [Nati Linares](mailto:nlinares@gmail.com), Co-Organizer in Orbit
+- [Nati Linares](mailto:nlinares@gmail.com), Co-Organizer
 - [Ebony Gustave](mailto:cooperativejournal@gmail.com), Co-Organizer
 - [Robin Bean Crane](mailto:k.bean.crane@gmail.com), Co-Organizer
 

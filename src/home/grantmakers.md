@@ -6,4 +6,4 @@ anchor: grantmakers
 hideAnchor: true
 ---
 
-## We provide grantmakers with ...
+## We provide resources and events for Grantmakers working on economic justice in the arts.
