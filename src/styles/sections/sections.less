@@ -30,11 +30,19 @@ img {
 }
 
 section {
+  @media (max-width: @mobile-width) {
+    top: 0;
+  }
+
   position: relative;
   top: @top-offset;
 }
 
 section.hero {
+  @media (max-width: @mobile-width) {
+    text-align: center;
+  }
+
   display: flex;
   height: calc(100vh - 100px);
   align-items: center;
@@ -43,12 +51,25 @@ section.hero {
 }
 
 section.about {
+  @media (max-width: @mobile-width) {
+    flex-direction: column;
+    height: auto;
+  }
+
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   height: calc(100vh - 100px);
 
   .item {
+    @media (max-width: @mobile-width) {
+      width: 100%;
+      background-position: top center;
+      background-size: 250px 250px;
+      padding-top: 250px;
+      padding-right: 0px;
+    }
+
     width: calc(33% - 32px);
     background-position: top left;
     background-size: 350px 350px;
@@ -63,6 +84,10 @@ section.about {
   }
 
   .item:last-child {
+    @media (max-width: @mobile-width) {
+      width: 100%;
+    }
+
     padding-right: 0;
     width: 33%;
     background-image: url('/assets/images/drawings/dandelions_Page_2 1 (Traced)-3.svg');
@@ -72,6 +97,11 @@ section.about {
 section.grantmakers,
 section.artists,
 section.connect {
+  @media (max-width: @mobile-width) {
+    top: 0;
+    margin: 25vh 0;
+  }
+
   text-align: center;
   position: relative;
   top: @top-offset;
@@ -92,11 +122,20 @@ section.contact {
 }
 
 section.deck,
-section.courses {
+section.courses,
+section.igfeed {
+  @media (max-width: @mobile-width) {
+    margin-bottom: 0;
+  }
+
   margin-bottom: 25vh;
 }
 
 section.contact {
+  @media (max-width: @mobile-width) {
+    margin-bottom: 0;
+  }
+
   margin-bottom: calc(25vh - 128px);
 }
 
