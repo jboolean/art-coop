@@ -5,7 +5,7 @@ position: 5020
 anchor: examples
 ---
 
-Here are a few examples of arts and culture groups and initiatives in the Solidarity Economy. As shown throughout the [report](#report), all networks and infrastructure in the Solidarity Economy—regardless of their emphasis on arts and culture—will support artists and culture-bearers.
+Here are a few examples of arts and culture groups and initiatives in the Solidarity Economy. As shown throughout the [report](#report), all networks and infrastructure in the Solidarity Economy—regardless of their emphasis on arts and culture—will support artists and culture-bearers. See the list below and [add yourself to these examples](/share-concept).
 
 :::: list
 

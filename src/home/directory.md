@@ -6,4 +6,4 @@ anchor: directory
 hideAnchor: true
 ---
 
-## We are working on a directory to help navigate the solidarity economy and its culture bearers.
+## The cultural economy we want already exists — and can be strengthened with intention. Here are just a few examples from our Directory
