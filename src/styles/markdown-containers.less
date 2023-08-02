@@ -21,3 +21,29 @@
     display: block;
   }
 }
+
+.list {
+  & > *:first-child h4 {
+    margin-top: 0;
+  }
+
+  h4 {
+    font-family: @font-family;
+    font-size: @font-size-base;
+  }
+
+  p {
+    font-size: @font-size-sm;
+    margin: 0;
+  }
+}
+
+.list--practices {
+  .list-item {
+    margin: 0 0 24px;
+  }
+
+  h4 {
+    margin: 0;
+  }
+}

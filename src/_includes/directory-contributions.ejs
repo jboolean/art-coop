@@ -1,0 +1,10 @@
+<div class="list list--practices">
+  <% concepts.concepts.forEach((concept, i)=> { %>
+  <div class="list-item" id="contribution-<%= i _%>" tabindex="0">
+    <h4><%= concept.conceptTitle %></h4>
+    <p class="contribution-description"><%= concept.conceptDescription %></p>
+    <% if (concept.example) { %> Examples in arts & culture: <%= concept.example
+    %> <% } %>
+  </div>
+  <% }) %>
+</div>

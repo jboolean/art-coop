@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contact Us
 hideInNavigation: true
-position: 5020
+position: 7020
 ---
 
 ### Email

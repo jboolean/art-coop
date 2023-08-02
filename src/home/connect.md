@@ -1,7 +1,7 @@
 ---
 title: Contact
 hideInNavigation: false
-position: 5010
+position: 7010
 anchor: contact
 hideAnchor: true
 ---
