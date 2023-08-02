@@ -2,9 +2,10 @@
   <% concepts.concepts.forEach((concept, i)=> { %>
   <div class="list-item" id="contribution-<%= i _%>" tabindex="0">
     <h4><%= concept.conceptTitle %></h4>
-    <p class="ontribution-description"><%= concept.conceptDescription %></p>
-    <% if (concept.example) { %> Examples in arts & culture: <%-
-    markdown(concept.example) %> <% } %>
+    <p class="contribution-description"><%= concept.conceptDescription %></p>
+    <% if (concept.example) { %>
+    <p class="contribution-description">Examples in arts & culture:</p>
+    <%- markdown(concept.example) %> <% } %>
   </div>
   <% }) %>
 </div>
