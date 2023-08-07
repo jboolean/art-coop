@@ -5,6 +5,8 @@ position: 3020
 anchor: courses
 ---
 
-If you would like to learn about the solidarity economy right now, we suggest that everyone reads [these texts](https://art.coop/#learn) and attends [Economics for Emancipation](https://www.populareconomics.org/2020-summer-institute/).
+Creatives around the world are working together, placing people and the planet over profit to create thriving homes, businesses, investments, and creative work. You can too.
 
-**Take our new [online courses for free right here](https://creativestudy.com/solidarity-economy).**
+**Take our [online courses for free right here](https://creativestudy.com/solidarity-economy).**
+
+If you would like to learn about the solidarity economy right now, we suggest that everyone reads [these texts](https://art.coop/#learn) and attends [Economics for Emancipation](https://www.populareconomics.org/2020-summer-institute/).
