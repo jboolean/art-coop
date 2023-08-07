@@ -18,6 +18,8 @@ Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budg
 ![Mellon Foundation](/assets/uploads/mellon-foundation-logo.png)
 
 ![Builders Vision](/assets/uploads/logo-wordmark-bv.png)
+
+![The Surdna Foundation](/assets/uploads/surdna.png)
 :::
 
 This is a website for Art.coop which exists to grow the Solidarity Economy movement by centering creatives making systems-change. Report design by [Surplus+](https://plus.softsurpl.us/) (Shea Fitzpatrick and [Lucy Siyao Liu](https://props.supply/)), and website by Cole Krumbholz, [Julian Boilen](https://julianboilen.com/), and Or Zubalsky.
