@@ -9,8 +9,6 @@ Here are a few examples of arts and culture groups and initiatives in the Solida
 
 :::: list
 
-::: list-item
-
 #### Land and Housing 
 
 Community Land Trusts: [Community Arts Stabilization Trust](https://cast-sf.org/), [Oakland CLT](https://oakclt.org/), [Cooper Square Community Land Trust](https://wp.nyu.edu/land/whats-the-cooper-square-community-land-trust/)
@@ -36,9 +34,6 @@ Cohousing and Intentional Communities: [Convent Arts Community](https://www.ic.o
 Cooperative Co-working, Retreat, Residency, or Landback Network: [ZEAL](https://www.policylink.org/node/62766)_, [Activation Residency](https://activationresidency.com/)_, [Flux Factory](https://www.fluxfactory.org), [The Weavers Project](https://www.theweaversproject.org)_, [Soul Fire Farm](https://www.soulfirefarm.org)_, [Yo Mama’s House](https://www.yomamashouse.com)_, [Black \[Space Residency](https://www.blackspaceresidency.com)_, [Land Relationships Super Collective](http://www.landrelationships.com/introduction)\_
 
 _\_ = majority BIPOC membership_
-:::
-
-::: list-item
 
 #### Work and Labor
 
@@ -73,9 +68,6 @@ Mutual Aid: [NDN Collective](https://ndncollective.org/), [Sol Collective](http:
 Barter Systems and Non-Monetary Exchange: [O+ Festival](https://www.nytimes.com/2013/11/16/arts/music/the-o-festival-expands-to-san-francisco.html)
 
 _\_ = majority BIPOC membership_
-:::
-
-::: list-item
 
 #### Money and Finance
 
@@ -105,10 +97,6 @@ Unions and Guilds: [Screen Actors Guild/American Federation of Television and Ra
 
 UBI / UBA / GBI: [Creatives Rebuild New York,](https://www.creativesrebuildny.org) [Springboard for the Arts UBI](https://springboardforthearts.org/guaranteed-income-for-artists/), [Yerba Buena Center for the Arts UBI](https://ybca.org/guaranteed-income-pilot/)
 
-:::
-
-::: list-item
-
 #### Energy and Utilities
 
 Community Solar: [Soulardarity](https://www.soulardarity.com/)
@@ -116,10 +104,6 @@ Community Solar: [Soulardarity](https://www.soulardarity.com/)
 Community Broadband: [Institute for Local Self Reliance’s MuniNetworks](https://muninetworks.org/)
 
 Energy Democracy: [Uprose Brooklyn](https://www.uprose.org/sunset-park-solar)
-
-:::
-
-::: list-item
 
 #### Food and Farming
 
@@ -130,10 +114,6 @@ Community Supported Agriculture: All CSAs!
 Food and Farm Co-ops: [Soul Fire Farm](https://www.soulfirefarm.org/), [Double Edge Theatre](https://doubleedgetheatre.org/), [Cooperative Food Empowerment Directive (CoFED)](https://www.cofed.coop/), [Acres of Ancestry](https://acresofancestry.org/)
 
 Community Fridges: All Community fridges!
-
-:::
-
-::: list-item
 
 #### Media & Technology
 
@@ -152,7 +132,5 @@ Copyleft: [Creative Commons](https://creativecommons.org/)
 Cooperative and Collective Study Groups: [Repaired Nations,\*](http://repairednations.org/) [GEEX](https://geex.glass/)_, [Anti- capitalism for Artists](https://www.anticapitalismforartists.com)_, [Architecture Beyond Capitalism](https://abc.architecture-lobby.org/), [Dark Study](https://www.darkstudy.net/)_, [Dark Matter University](https://darkmatteruniversity.org/)_, [Dark Laboratory](https://www.darklaboratory.com/),_ [Artists Dismantling Capitalism](https://cooperationhumboldt.com/dismantle-capitalism/), [Cooperation Humboldt](https://cooperationhumboldt.com/study-groups-2/), [School of Art, Culture, and Resistance](https://peoplesforum.org/event/applications-open-school-of-art-culture-and-resistance/), Arts, Culture, and Care in the Solidarity Economy Working Group_, [TradeSchool.coop](https://tradeschool.coop) (closed), and so many more
 
 _\_ = majority BIPOC membership_
-
-:::
 
 ::::
