@@ -2,6 +2,7 @@
 title: Feed
 hideInNavigation: true
 position: 6000
+classes: title
 ---
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>

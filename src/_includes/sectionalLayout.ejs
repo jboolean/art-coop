@@ -3,7 +3,7 @@
 <main>
   <% collections[collectionName].filter((section)=>
   !section.data.hidden).forEach((section)=> { %>
-  <section id="<%- section.data.anchor %>" class="<%- section.fileSlug %>">
+  <section id="<%- section.data.anchor %>" class="<%- section.fileSlug %><% if( section.data.classes){ %> <%- section.data.classes %><% } %>">
     <% if (section.data.anchor && !section.data.hideAnchor) { if (!section.data.hideInNavigation) { %>
     <h2 class="section-header"><%- section.data.title %> <a href="/#<%- section.data.anchor %>" class="anchor-link"><img src="/assets/images/link.svg" /></a></h2>
     <% } else { %>

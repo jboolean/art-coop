@@ -36,114 +36,22 @@ section {
 
   position: relative;
   top: @top-offset;
+  max-width: 720px;
+  margin: 0 auto;
 }
 
-section.hero {
-  text-align: center;
-  display: flex;
-  height: calc(100vh - 100px);
-  align-items: center;
-  justify-content: center;
-  top: 0;
-}
-
-section.about {
-  @media (max-width: @mobile-width) {
-    flex-direction: column;
-    height: auto;
-  }
-
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  height: calc(100vh - 100px);
-
-  .item {
-    @media (max-width: @mobile-width) {
-      width: 100%;
-      background-position: top center;
-      background-size: 250px 250px;
-      padding-top: 250px;
-      padding-right: 0px;
-    }
-
-    width: calc(33% - 32px);
-    background-position: top left;
-    background-size: 350px 350px;
-    padding-top: 350px;
-    padding-right: 32px;
-    background-repeat: no-repeat;
-    background-image: url('/assets/images/drawings/dandelions_Page_1 1 (Traced)-5.svg');
-  }
-
-  .item:first-child {
-    background-image: url('/assets/images/drawings/dandelions_Page_2 1 (Traced)-4.svg');
-  }
-
-  .item:last-child {
-    @media (max-width: @mobile-width) {
-      width: 100%;
-    }
-
-    padding-right: 0;
-    width: 33%;
-    background-image: url('/assets/images/drawings/dandelions_Page_2 1 (Traced)-3.svg');
-  }
-}
-
-section.grantmakers,
-section.artists,
-section.directory,
-section.connect {
+section.title {
   @media (max-width: @mobile-width) {
     top: 0;
-    margin: 25vh 0;
   }
 
+  max-width: 100%;
+  margin: 25vh 0;
   text-align: center;
   position: relative;
   top: @top-offset;
-  margin: 0 0 25vh;
 
   h2 {
     margin: 0;
   }
-}
-
-section.report,
-section.deck,
-section.podcast,
-section.courses,
-section.examples,
-section.contact {
-  max-width: 720px;
-  margin: 0 auto;
-}
-
-section.deck,
-section.courses,
-section.examples,
-section.igfeed {
-  @media (max-width: @mobile-width) {
-    margin-bottom: 0;
-  }
-
-  margin-bottom: 25vh;
-}
-
-section.contact {
-  @media (max-width: @mobile-width) {
-    margin-bottom: 0;
-  }
-
-  margin-bottom: calc(25vh - 128px);
-}
-
-section.footer {
-  font-size: @font-size-sm;
-  line-height: 20px;
-  color: gray;
-  max-width: 720px;
-  margin: 0 auto;
-  top: 0;
 }
