@@ -18,7 +18,6 @@ md.use(mila, [
 md.use(mic, 'break-inside-avoid');
 md.use(mic, 'columns');
 md.use(mic, 'list');
-md.use(mic, 'list-item');
 md.use(mic, 'item');
 md.enable('table');
 md.disable('code');
