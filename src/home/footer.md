@@ -3,11 +3,11 @@ title: Footer
 hideInNavigation: true
 position: 9999
 ---
-[![Grantmakers in the Arts logo](/assets/uploads/gia-logo.svg)](https://www.giarts.org/)
 
-Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budget is transparent and available online [here](https://opencollective.com/art_coop). Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, and the Mellon Foundation.
+Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budget is transparent and available online [here](https://opencollective.com/art_coop). Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, Builders Vision, and the Mellon Foundation.
 
 ::: columns
+![Grantmakers in the Arts logo](/assets/uploads/gia-logo.svg)
 
 ![Hewlett Foundation](/assets/uploads/hewlett_dark.svg)
 
@@ -17,6 +17,9 @@ Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budg
 
 ![Mellon Foundation](/assets/uploads/mellon-foundation-logo.png)
 
+![Builders Vision](/assets/uploads/logo-wordmark-bv.png)
+
+![The Surdna Foundation](/assets/uploads/surdna.png)
 :::
 
-This is a website for Art.coop which exists to grow the Solidarity Economy movement by centering creatives making systems-change. The core organizers are [Sruti Suryanarayanan](https://www.ssuryana.com/) and [Marina Lopez](https://www.instagram.com/connectivesomatics/). The founding organizers are co-authors of the report: [Nati Linares](https://conrazon.me/about/) and [Caroline Woolard](https://carolinewoolard.com/). Drawings by [Emma Werowinski](https://emmawerowinski.com/), report design by [Surplus+](https://plus.softsurpl.us/) (Shea Fitzpatrick and [Lucy Siyao Liu](https://props.supply/)), and website by Cole Krumbholz and [Julian Boilen](https://julianboilen.com/)
+This is a website for Art.coop which exists to grow the Solidarity Economy movement by centering creatives making systems-change. Report design by [Surplus+](https://plus.softsurpl.us/) (Shea Fitzpatrick and [Lucy Siyao Liu](https://props.supply/)), and website by Cole Krumbholz, [Julian Boilen](https://julianboilen.com/), and Or Zubalsky.

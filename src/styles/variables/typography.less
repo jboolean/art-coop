@@ -1,27 +1,37 @@
 @import './sizing.less';
 
-@font-family-serif: 'Caudex', serif;
-@font-family-sans: 'Rubik', sans-serif;
+@font-family: 'Rubik', sans-serif;
 
+@font-weight-light: 100;
 @font-weight-normal: 400;
-@font-weight-bold: 700;
+@font-weight-bold: 600;
 
-@font-size-sm: 14px;
+@font-size-sm: 15px;
 @font-size-base: 18px;
 @font-size-large: 24px;
-@font-size-larger: 32px;
+@font-size-larger: 48px;
 
 .font-size-base() {
   font-size: @font-size-base;
-  line-height: (@grid * 2.25);
+  line-height: (@grid * 3);
 }
 
 .font-size-large() {
   font-size: @font-size-large;
-  line-height: (@grid * 3);
+  line-height: (@grid * 3.5);
 }
 
 .font-size-larger() {
   font-size: @font-size-larger;
-  line-height: (@grid * 4);
+  line-height: (@grid * 7);
+
+  @media (max-width: @mobile-width) {
+    font-size: 32px;
+    line-height: (@grid * 4.5);
+    text-align: left;
+  }
+}
+
+#eapps-instagram-feed-1 {
+  font-family: @font-family;
 }

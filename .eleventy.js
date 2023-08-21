@@ -17,6 +17,8 @@ md.use(mila, [
 // Correspond to class names in markdown-containers.less
 md.use(mic, 'break-inside-avoid');
 md.use(mic, 'columns');
+md.use(mic, 'list');
+md.use(mic, 'item');
 md.enable('table');
 md.disable('code');
 
@@ -26,7 +28,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_redirects');
   eleventyConfig.addWatchTarget('src/styles');
 
-  ['home', 'study'].forEach((collectionName) => {
+  ['home', 'study', 'past'].forEach((collectionName) => {
     eleventyConfig.addCollection(collectionName, function (collectionApi) {
       // get unsorted items
       const raw = collectionApi.getFilteredByTag(collectionName);

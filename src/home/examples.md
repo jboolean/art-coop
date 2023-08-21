@@ -1,17 +1,15 @@
 ---
 title: Solidarity Economy & Culture
 hideInNavigation: true
-position: 2040
+position: 5020
 anchor: examples
 ---
 
-Here are a few examples of arts and culture groups and initiatives in the Solidarity Economy. As shown throughout the report, all networks and infrastructure in the Solidarity Economy—regardless of their emphasis on arts and culture—will support artists and culture-bearers.
+Here are a few examples of arts and culture groups and initiatives in the Solidarity Economy. As shown throughout the [report](#report), all networks and infrastructure in the Solidarity Economy—regardless of their emphasis on arts and culture—will support artists and culture-bearers. See the list below and [add yourself to these examples](/share-concept).
 
-:::: columns
+:::: list
 
-::: break-inside-avoid
-
-### Land and Housing 
+#### Land and Housing 
 
 Community Land Trusts: [Community Arts Stabilization Trust](https://cast-sf.org/), [Oakland CLT](https://oakclt.org/), [Cooper Square Community Land Trust](https://wp.nyu.edu/land/whats-the-cooper-square-community-land-trust/)
 
@@ -21,27 +19,43 @@ Housing Cooperatives: Divine House, [Art Cooperative](https://www.ic.org/artcomm
 
 Cooperative Co-working Space: [The Artist Co-op](https://www.theartistco-op.com), [Soft Surplus](https://softsurpl.us/), [Prime Produce](https://www.primeproduce.coop/)
 
-Cooperative Venue: [Tianguis de la Raza](https://www.instagram.com/tianguis.raza/?hl=en)_, [U Street Music Hall](https://www.facebook.com/uhalldc/) (closed), [Network of Ensemble Theaters](http://www.ensembletheaters.net/), (_ = majority BIPOC membership)
+Cooperative Venue: [Tianguis de la Raza](https://www.instagram.com/tianguis.raza/?hl=en)\_, [U Street Music Hall](https://www.facebook.com/uhalldc/) (closed), [Network of Ensemble Theaters](http://www.ensembletheaters.net/)
 
-Cooperative Store / Gallery: [Dutch Alley Artists Co-op](http://www.dutchalleyartistsco-op.com/aboutus.html), [A.I.R Gallery](https://www.airgallery.org), [Ujamaa Collective](http://www.ujamaacollective.org/)_, [ARTZ (Ancestral Rich Treasures of Zuni) Cooperative](https://zunipuebloart.com/artz-co-op)_, [Qualla Arts & Crafts,](https://quallaartsandcrafts.com)_ [Art Center Cooperative](http://www.tacjacksonville.org/about/), [Aarhus Makers](https://aarhusmakers.com/), [Ulična galerija ](https://www.ulicnagalerija.rs)(_ = majority BIPOC membership)
+Cooperative Store / Gallery: [Dutch Alley Artists Co-op](http://www.dutchalleyartistsco-op.com/aboutus.html), [A.I.R Gallery](https://www.airgallery.org), [Ujamaa Collective](http://www.ujamaacollective.org/)_, [ARTZ (Ancestral Rich Treasures of Zuni) Cooperative](https://zunipuebloart.com/artz-co-op)_, [Qualla Arts & Crafts,](https://quallaartsandcrafts.com)\_ [Art Center Cooperative](http://www.tacjacksonville.org/about/), [Aarhus Makers](https://aarhusmakers.com/), [Ulična galerija ](https://www.ulicnagalerija.rs)
 
 Cooperative Studios: [Talking Dolls](http://talkingdollsdetroit.com/), [Adaept](https://adaept.design)
 
 Cooperative Recording Spaces: [Live Musicians Co-op](https://www.livemusicianscoop.com/?fbclid=IwAR3lVIM63gnYMMwMFcEYdlb1ZnVm0yUW4LkoOD0NxhUcceEYKZdnc8qKMgg)
 
-Cooperative Darkrooms: [Lone Star Darkroom](https://www.lonestardarkroom.com), [Bushwick Community Darkroom](https://www.bushwickcommunitydarkroom.com) [](http://www.clayartpotterygroup.com/about-us.html)
+Cooperative Darkrooms: [Lone Star Darkroom](https://www.lonestardarkroom.com), [Bushwick Community Darkroom](https://www.bushwickcommunitydarkroom.com), [Clay Art Pottery Co-op](http://www.clayartpotterygroup.com/about-us.html)
 
 Cohousing and Intentional Communities: [Convent Arts Community](https://www.ic.org/artcommunes/), [MilePost 5](https://www.ic.org/artcommunes/)
 
-Cooperative Co-working, Retreat, Residency, or #Landback Network: [ZEAL](https://www.policylink.org/node/62766)_, [Activation Residency](https://activationresidency.com/)_, [Flux Factory](https://www.fluxfactory.org), [The Weavers Project](https://www.theweaversproject.org)_, [Soul Fire Farm](https://www.soulfirefarm.org)_, [Yo Mama’s House](https://www.yomamashouse.com)_, [Black \[Space] Residency](https://www.blackspaceresidency.com),_ [Land Relationships Super Collective\*](http://www.landrelationships.com/introduction) (\* = majority BIPOC membership)
+Cooperative Co-working, Retreat, Residency, or Landback Network: [ZEAL](https://www.policylink.org/node/62766)_, [Activation Residency](https://activationresidency.com/)_, [Flux Factory](https://www.fluxfactory.org), [The Weavers Project](https://www.theweaversproject.org)_, [Soul Fire Farm](https://www.soulfirefarm.org)_, [Yo Mama’s House](https://www.yomamashouse.com)_, [Black \[Space Residency](https://www.blackspaceresidency.com)_, [Land Relationships Super Collective](http://www.landrelationships.com/introduction)\_
 
-:::
+_\_ = majority BIPOC membership_
 
-::: break-inside-avoid
+#### Work and Labor
 
-### Work and Labor
+Worker Cooperatives, News and Media: [Cafeteria Radio](https://www.cafeteria.fm/about)_, [Means TV](https://means.tv), [Media Reparations](https://mediareparations.org)_, [Associated Press](https://www.ap.org), [Devil Strip](https://thedevilstrip.com), [Discourse Blog](https://discourseblog.com)
 
-Worker Cooperatives: [](http://www.rhythmconspiracy.com/)➔ News and Media: [Cafeteria Radio](https://www.cafeteria.fm/about)_, [Means TV](https://means.tv),   [Media Reparations](https://mediareparations.org)_, [Associated Press](https://www.ap.org), [Devil Strip](https://thedevilstrip.com), [Discourse Blog](https://discourseblog.com)  ➔ Architectural Design and Construction: [Earth-Bound Building](https://www.earthboundbuilding.com)_, [Oxbow Design Build](https://oxbowdesignbuild.com)  ➔ Craft: [Adams & Chittenden Scientific Glass](https://adamschittenden.com/), and so many more, including [over 300 craft cooperatives.](https://www.rd.usda.gov/files/cir55.pdf) ➔ Fashion: [Custom Collaborative,_](https://www.customcollaborative.org/) [Friends of Light ](https://www.friendsoflight.net/) ➔ Printmaking: [Cards by Dé](https://cardsbyde.com)_, [Story 2 Designs](https://www.story2designs.com)_, [JustSeeds](https://justseeds.org), [Radix Media](https://radixmedia.org)  ➔ Graphic Design: [Story2Designs,\*](https://www.story2designs.com/services/) [Surplus Plus](https://softsurpl.us/)_, [TESA](https://www.tesacollective.com/), [Partner & Partners](https://partnerandpartners.com/)  ➔ Film + VR + Tech + Audio + Video Games: [CRUX](https://crux.coop)_, [Emma](https://emma.coop/)_, [The Sound Co-op](https://www.soundcoop.tv), [MOXI](https://www.wehavemoxi.com), [Meerkat Media_](https://www.meerkatmedia.org/), [GlorySociety](http://theglorysociety.com/), [Agaric\*](https://agaric.coop/) ➔ Beauty: [Mirror Beauty Cooperative](https://www.instagram.com/mirror_cooperative_/?hl=en),_ [Brown Beauty Co-op](https://www.brownbeautyco-op.com/),_ [Salon Cooperative](https://saloncooperative.com/about)  ➔ Music, Dance, Theatre: [Ujima Theatre Company](https://www.ujimacoinc.org)_, [Obvious Agency](https://howlround.com/obvious-agency-and-creative-cooperative-futures)_, [Rhythm Conspiracy](https://www.facebook.com/RhythmConspirac/),_ [The Team,](http://theteamplays.org/)  [the COOP](https://www.thecoopnyc.org/mission-history) ➔ Orchestra: [Pro Arte Orchestra of Boston](https://www.proarte.org/history), [Orpheus Chamber Orchestra,](http://www.orpheusnyc.com/about.html) [Louisiana Philharmonic Orchestra](http://www.lpomusic.com/?q=Orchestra) (_ = majority BIPOC membership)
+Worker Cooperatives, Architectural Design and Construction: [Earth-Bound Building](https://www.earthboundbuilding.com)\_, [Oxbow Design Build](https://oxbowdesignbuild.com)
+
+Worker Cooperatives, Craft: [Adams & Chittenden Scientific Glass](https://adamschittenden.com/), and so many more, including [over 300 craft cooperatives.](https://www.rd.usda.gov/files/cir55.pdf)
+
+Worker Cooperatives, Fashion: [Custom Collaborative,\_](https://www.customcollaborative.org/) [Friends of Light ](https://www.friendsoflight.net/)
+
+Worker Cooperatives, Printmaking: [Cards by Dé](https://cardsbyde.com)_, [Story 2 Designs](https://www.story2designs.com)_, [JustSeeds](https://justseeds.org), [Radix Media](https://radixmedia.org)
+
+Worker Cooperatives, Graphic Design: [Story2Designs,\*](https://www.story2designs.com/services/) [Surplus Plus](https://softsurpl.us/)\_, [TESA](https://www.tesacollective.com/), [Partner & Partners](https://partnerandpartners.com/)
+
+Worker Cooperatives, Film + VR + Tech + Audio + Video Games: [CRUX](https://crux.coop)_, [Emma](https://emma.coop/)_, [The Sound Co-op](https://www.soundcoop.tv), [MOXI](https://www.wehavemoxi.com), [Meerkat Media\_](https://www.meerkatmedia.org/), [GlorySociety](http://theglorysociety.com/), [Agaric\*](https://agaric.coop/)
+
+Worker Cooperatives, Beauty: [Mirror Beauty Cooperative](https://www.instagram.com/mirror_cooperative_/?hl=en)_, [Brown Beauty Co-op](https://www.brownbeautyco-op.com/),_ [Salon Cooperative](https://saloncooperative.com/about)
+
+Worker Cooperatives, , Music, Dance, Theatre: [Ujima Theatre Company](https://www.ujimacoinc.org)_, [Obvious Agency](https://howlround.com/obvious-agency-and-creative-cooperative-futures)_, [Rhythm Conspiracy](https://www.facebook.com/RhythmConspirac/)\_, [The Team,](http://theteamplays.org/)  [the COOP](https://www.thecoopnyc.org/mission-history)
+
+Worker Cooperatives, Orchestra: [Pro Arte Orchestra of Boston](https://www.proarte.org/history), [Orpheus Chamber Orchestra,](http://www.orpheusnyc.com/about.html) [Louisiana Philharmonic Orchestra](http://www.lpomusic.com/?q=Orchestra)
 
 Multi-stakeholder Cooperatives: [Happy Family Night Market](https://www.happyfamilymkt.com/mission)
 
@@ -53,11 +67,9 @@ Mutual Aid: [NDN Collective](https://ndncollective.org/), [Sol Collective](http:
 
 Barter Systems and Non-Monetary Exchange: [O+ Festival](https://www.nytimes.com/2013/11/16/arts/music/the-o-festival-expands-to-san-francisco.html)
 
-:::
+_\_ = majority BIPOC membership_
 
-::: break-inside-avoid
-
-### Money and Finance
+#### Money and Finance
 
 Participatory Budgeting: [Runway](https://www.runway.family/runway-overview), [Participatory Budgeting Project](https://www.participatorybudgeting.org/)
 
@@ -85,11 +97,7 @@ Unions and Guilds: [Screen Actors Guild/American Federation of Television and Ra
 
 UBI / UBA / GBI: [Creatives Rebuild New York,](https://www.creativesrebuildny.org) [Springboard for the Arts UBI](https://springboardforthearts.org/guaranteed-income-for-artists/), [Yerba Buena Center for the Arts UBI](https://ybca.org/guaranteed-income-pilot/)
 
-:::
-
-::: break-inside-avoid
-
-### Energy and Utilities
+#### Energy and Utilities
 
 Community Solar: [Soulardarity](https://www.soulardarity.com/)
 
@@ -97,11 +105,7 @@ Community Broadband: [Institute for Local Self Reliance’s MuniNetworks](https:
 
 Energy Democracy: [Uprose Brooklyn](https://www.uprose.org/sunset-park-solar)
 
-:::
-
-::: break-inside-avoid
-
-### Food and Farming
+#### Food and Farming
 
 Community Gardens: All community gardens!
 
@@ -111,11 +115,7 @@ Food and Farm Co-ops: [Soul Fire Farm](https://www.soulfirefarm.org/), [Double E
 
 Community Fridges: All Community fridges!
 
-:::
-
-::: break-inside-avoid
-
-### Media & Technology
+#### Media & Technology
 
 Worker-Owned News Media: [Media Reparations,](https://mediareparations.org/) [Associated Press](https://www.ap.org/about/), [Devil Strip](https://thedevilstrip.com/)
 
@@ -129,8 +129,8 @@ Open Source: [Mozilla](https://www.mozilla.org/en-US/), [Wikipedia](https://www.
 
 Copyleft: [Creative Commons](https://creativecommons.org/)
 
-Cooperative and Collective Study Groups: [Repaired Nations,\*](http://repairednations.org/) [GEEX](https://geex.glass/)_, [Anti- capitalism for Artists](https://www.anticapitalismforartists.com)_, [Architecture Beyond Capitalism](https://abc.architecture-lobby.org/), [Dark Study](https://www.darkstudy.net/)_, [Dark Matter University](https://darkmatteruniversity.org/)_, [Dark Laboratory](https://www.darklaboratory.com/),_ [Artists Dismantling Capitalism](https://cooperationhumboldt.com/dismantle-capitalism/), [Cooperation Humboldt](https://cooperationhumboldt.com/study-groups-2/), [School of Art, Culture, and Resistance](https://peoplesforum.org/event/applications-open-school-of-art-culture-and-resistance/), Arts, Culture, and Care in the Solidarity Economy Working Group_, [TradeSchool.coop](https://tradeschool.coop) (closed), and so many more (\* = majority BIPOC membership)
+Cooperative and Collective Study Groups: [Repaired Nations,\*](http://repairednations.org/) [GEEX](https://geex.glass/)_, [Anti- capitalism for Artists](https://www.anticapitalismforartists.com)_, [Architecture Beyond Capitalism](https://abc.architecture-lobby.org/), [Dark Study](https://www.darkstudy.net/)_, [Dark Matter University](https://darkmatteruniversity.org/)_, [Dark Laboratory](https://www.darklaboratory.com/),_ [Artists Dismantling Capitalism](https://cooperationhumboldt.com/dismantle-capitalism/), [Cooperation Humboldt](https://cooperationhumboldt.com/study-groups-2/), [School of Art, Culture, and Resistance](https://peoplesforum.org/event/applications-open-school-of-art-culture-and-resistance/), Arts, Culture, and Care in the Solidarity Economy Working Group_, [TradeSchool.coop](https://tradeschool.coop) (closed), and so many more
 
-:::
+_\_ = majority BIPOC membership_
 
 ::::

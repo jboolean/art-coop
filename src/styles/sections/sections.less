@@ -1,5 +1,7 @@
 @import '../variables/sizing.less';
 
+@top-offset: -128px;
+
 .section-header {
   display: flex;
   align-items: center;
@@ -25,4 +27,31 @@ img {
 
 .centered {
   text-align: center;
+}
+
+section {
+  @media (max-width: @mobile-width) {
+    top: 0;
+  }
+
+  position: relative;
+  top: @top-offset;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+section.title {
+  @media (max-width: @mobile-width) {
+    top: 0;
+  }
+
+  max-width: 100%;
+  margin: 25vh 0;
+  text-align: center;
+  position: relative;
+  top: @top-offset;
+
+  h2 {
+    margin: 0;
+  }
 }

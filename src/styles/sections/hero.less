@@ -1,0 +1,33 @@
+section.hero {
+  text-align: center;
+  display: flex;
+  height: calc(100vh - 100px);
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  max-width: 100%;
+  flex-direction: column;
+
+  p {
+    margin: 0;
+  }
+
+  img {
+    max-width: 600px;
+  }
+
+  h2 {
+    font-size: 36px;
+    font-weight: 100;
+    max-width: 760px;
+    line-height: 48px;
+    margin: 0;
+  }
+
+  @media (max-width: @mobile-width) {
+    h2 {
+      font-size: @font-size-large;
+      line-height: 32px;
+    }
+  }
+}

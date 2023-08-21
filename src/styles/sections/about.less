@@ -1,0 +1,46 @@
+@import '../variables/sizing.less';
+
+section.about {
+  @media (max-width: @mobile-width) {
+    flex-direction: column;
+    height: auto;
+  }
+
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: calc(100vh - 100px);
+
+  .item {
+    @media (max-width: @mobile-width) {
+      width: 100%;
+      background-position: top center;
+      background-size: 250px 250px;
+      padding-top: 250px;
+      padding-right: 0px;
+    }
+
+    width: calc(33% - 32px);
+    background-position: top left;
+    background-size: 350px 350px;
+    padding-top: 350px;
+    padding-right: 32px;
+    background-repeat: no-repeat;
+    background-image: url('/assets/images/drawings/dandelions_Page_1 1 (Traced)-5.svg');
+  }
+
+  .item:first-child {
+    background-image: url('/assets/images/drawings/dandelions_Page_2 1 (Traced)-4.svg');
+  }
+
+  .item:last-child {
+    @media (max-width: @mobile-width) {
+      width: 100%;
+    }
+
+    padding-right: 0;
+    width: 33%;
+    background-image: url('/assets/images/drawings/dandelions_Page_2 1 (Traced)-3.svg');
+  }
+}

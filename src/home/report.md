@@ -1,8 +1,8 @@
 ---
-title: Report
+title: 'Solidarity Not Charity: A Rapid Report'
 hideInNavigation: true
-position: 1070
+position: 2010
 anchor: report
 ---
 
-<%- include('/report-block') %>
+<%- include('/report-block-minimal') %>
