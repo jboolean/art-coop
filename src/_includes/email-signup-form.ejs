@@ -1,3 +1,13 @@
+<script>
+  function prependProtocol(el) {
+    const value = el.value;
+    if (!value.length || value.match(/^https?:\/\//)) {
+      return;
+    }
+    el.value = `http://${value}`;
+  }
+</script>
+
 <form
   method="POST"
   data-netlify="true"
@@ -26,7 +36,12 @@
   </p>
   <p>
     <label for="input-url">Website</label>
-    <input id="input-url" type="url" name="url" />
+    <input
+      id="input-url"
+      type="url"
+      name="url"
+      onblur="prependProtocol(this)"
+    />
   </p>
 
   <div data-netlify-recaptcha="true"></div>
