@@ -8,7 +8,7 @@ position: 1020
 
 ### Our Vision
 
-Artists who are fed up with the current system are connected and know their power. There is a hub where artists get money, ideas, and tools to strengthen their communities. Art.coop is part of the movement to remember future Art Worlds with community-control at the core.
+Artists who are fed up with the current system are connected and know their power. There is a hub where artists get money, ideas, and tools to strengthen their communities. Art.coop is part of the movement to remember future art worlds with community-control at the core.
 :::
 
 :::item
