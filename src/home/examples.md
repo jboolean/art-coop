@@ -15,8 +15,6 @@ Community Land Trusts: [Community Arts Stabilization Trust](https://cast-sf.org/
 
 Cooperative Housing: [East Bay Permanent Real Estate Cooperative](https://ebprec.org/)\*, [Greene Street Artists](https://www.greenestreetartists.org), [Emeryville Artists Co-op](http://www.emeryvilleartistscoop.org/)
 
-Housing Cooperatives: Divine House, [Art Cooperative](https://www.ic.org/artcommunes/)
-
 Cooperative Co-working Space: [The Artist Co-op](https://www.theartistco-op.com), [Soft Surplus](https://softsurpl.us/), [Prime Produce](https://www.primeproduce.coop/)
 
 Cooperative Venue: [Tianguis de la Raza](https://www.instagram.com/tianguis.raza/?hl=en)\_, [U Street Music Hall](https://www.facebook.com/uhalldc/) (closed), [Network of Ensemble Theaters](http://www.ensembletheaters.net/)

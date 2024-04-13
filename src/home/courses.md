@@ -9,4 +9,4 @@ Creatives around the world are working together, placing people and the planet o
 
 **Take our [online courses for free right here](https://creativestudy.com/solidarity-economy).**
 
-If you would like to learn about the solidarity economy right now, we suggest that everyone reads [these texts](https://art.coop/#learn) and attends [Economics for Emancipation](https://www.populareconomics.org/2020-summer-institute/).
+If you would like to learn about the solidarity economy right now, we suggest that everyone reads [these texts](#learn) and attends [Economics for Emancipation](https://economics4emancipation.net).
