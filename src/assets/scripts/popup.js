@@ -28,19 +28,15 @@ var HAS_SIGNED_UP = 'signed-up';
     link.dispatchEvent(new MouseEvent('click'));
   }
 
+  function onSubmitted(pdfUrl) {
+    Cookies.set(HAS_SIGNED_UP, true, { expires: 3650 });
+    downloadPdf(pdfUrl);
+    closePopup();
+  }
+
   function handleSubmit(e) {
-    e.preventDefault();
     var pdfUrl = popupEl.getAttribute('data-pdf-href');
-    var formData = new FormData(e.target);
-    formData.set('pdf', pdfUrl);
-    var request = new XMLHttpRequest();
-    request.onload = function () {
-      Cookies.set(HAS_SIGNED_UP, true, { expires: 3650 });
-      downloadPdf(pdfUrl);
-      closePopup();
-    };
-    request.open('POST', '/form');
-    request.send(formData);
+    onSubmitted(pdfUrl);
   }
 
   function bind() {

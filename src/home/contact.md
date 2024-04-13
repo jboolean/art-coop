@@ -20,4 +20,4 @@ position: 7020
 
 ### Receive emails about upcoming events
 
-<%- include('/email-signup-form') %>
+<%- include('/email-signup-form', {submitLabel: 'Submit'}) %>
