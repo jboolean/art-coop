@@ -4,6 +4,8 @@ hideInNavigation: true
 position: 7020
 ---
 
+## Let's connect!
+
 ### Email
 
 - [Marina Lopez](mailto:marina@art.coop), Co-Organizer
