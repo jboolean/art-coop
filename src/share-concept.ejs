@@ -6,45 +6,53 @@ layout: default
 <main>
   <a href="/#directory">Back to site</a>
 
+  <!-- 
+  This corresponds to a form in Mailchimp.
+  It was created by copying the form url and field names from the Mailchimp form.
+ https://art.us10.list-manage.com/subscribe?u=b971d4b7bcf8e197af1f16ec1&id=44106d3951
+-->
   <form
     method="POST"
-    data-netlify="true"
     name="share-concept"
-    action="/share-concept-success"
+    action="https://art.us10.list-manage.com/subscribe/post"
   >
+    <input type="hidden" name="u" value="b971d4b7bcf8e197af1f16ec1" />
+    <input type="hidden" name="id" value="44106d3951" />
+    <input type="hidden" name="pdf" />
+
     <h1>Add yourself to the list of examples</h1>
     <fieldset class="inline-field-group">
       <legend>Your name (not public)</legend>
       <input
         id="input-first"
         type="text"
-        name="first-name"
+        name="MERGE1"
         placeholder="First"
         required
       />
       <input
         id="input-last"
         type="text"
-        name="last-name"
+        name="MERGE2"
         placeholder="Last"
         required
       />
     </fieldset>
     <p>
-      <label for="input-contact">Your contact information (not public)</label>
-      <input id="input-contact" type="text" name="contact" required />
+      <label for="input-email">Email address</label>
+      <input id="input-email" type="email" name="MERGE0" required />
     </p>
 
     <p>
       <label for="input-organization"
         >Your group’s name (public, listed on the website)</label
       >
-      <input id="input-organization" type="text" name="organization" required />
+      <input id="input-organization" type="text" name="MERGE3" required />
     </p>
 
     <p>
       <label for="input-practice">Solidarity Economy practice</label>
-      <select id="input-practice" name="practice" required>
+      <select id="input-practice" name="MERGE6" required>
         <option disabled selected>Select…</option>
         <% concepts.concepts.forEach((concept)=> { %>
         <option value="<%= concept.conceptTitle %>">
@@ -59,17 +67,7 @@ layout: default
         >Link to your organization or more info about this practice (public,
         linked to the website)</label
       >
-      <input
-        id="input-organization-link"
-        type="text"
-        name="organization-link"
-        required
-      />
-    </p>
-
-    <p>
-      <label for="input-comments">Other comments</label>
-      <textarea id="input-comments" name="comments"></textarea>
+      <input id="input-organization-link" type="text" name="MERGE4" required />
     </p>
 
     <p>Thank you!</p>
