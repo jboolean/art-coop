@@ -2,6 +2,7 @@
 title: Contact Us
 hideInNavigation: true
 position: 7020
+anchor: contact
 ---
 
 ## Let's connect!
