@@ -1,7 +1,7 @@
 ---
 title: Feed
 hideInNavigation: true
-position: 6000
+position: 2005
 classes: title
 ---
 
