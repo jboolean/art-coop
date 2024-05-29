@@ -3,13 +3,10 @@ title: Footer
 hideInNavigation: true
 position: 9999
 ---
-
-Art.coop is a fiscally sponsored project of Movement Strategy Center. Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, Builders Vision, and the Mellon Foundation.
+Art.coop is a fiscally sponsored project of Movement Strategy Center. Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the S urdna Foundation, Builders Vision, and the Mellon Foundation.
 
 ::: columns
 ![Grantmakers in the Arts logo](/assets/uploads/gia-logo.svg)
-
-![Hewlett Foundation](/assets/uploads/hewlett_dark.svg)
 
 ![Kennith Rainin Foundation](/assets/uploads/rainin.png)
 
@@ -19,7 +16,7 @@ Art.coop is a fiscally sponsored project of Movement Strategy Center. Support co
 
 ![Builders Vision](/assets/uploads/logo-wordmark-bv.png)
 
-![The Surdna Foundation](/assets/uploads/surdna.png)
+
 :::
 
 This is a website for Art.coop which exists to grow the Solidarity Economy movement by centering creatives making systems-change. Report design by [Surplus+](https://plus.softsurpl.us/) (Shea Fitzpatrick and [Lucy Siyao Liu](https://props.supply/)), and website by Cole Krumbholz, [Julian Boilen](https://julianboilen.com/), and Or Zubalsky.
