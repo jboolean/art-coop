@@ -8,45 +8,52 @@
   }
 </script>
 
+<!-- 
+  This corresponds to a form in Mailchimp.
+  It was created by copying the form url and field names from the Mailchimp form.
+ https://art.us10.list-manage.com/subscribe?u=b971d4b7bcf8e197af1f16ec1&id=44106d3951
+-->
 <form
-  method="POST"
-  data-netlify="true"
-  data-netlify-recaptcha="true"
   name="email-signup"
-  enctype="application/x-www-form-urlencoded"
-  action="/"
+  form
+  action="https://art.us10.list-manage.com/subscribe/post"
+  method="POST"
+  target="_blank"
 >
+  <input type="hidden" name="u" value="b971d4b7bcf8e197af1f16ec1" />
+  <input type="hidden" name="id" value="44106d3951" />
+  <input type="hidden" name="pdf" />
+
   <fieldset class="inline-field-group">
     <p>
       <label for="input-first">First name</label>
-      <input id="input-first" type="text" name="first-name" required />
+      <input id="input-first" type="text" name="MERGE1" required />
     </p>
     <p>
       <label for="input-last">Last name</label>
-      <input id="input-last" type="text" name="last-name" required />
+      <input id="input-last" type="text" name="MERGE2" required />
     </p>
   </fieldset>
   <p>
     <label for="input-email">Email address</label>
-    <input id="input-email" type="email" name="email" required />
+    <input id="input-email" type="email" name="MERGE0" required />
   </p>
   <p>
     <label for="input-organization">Organization </label>
-    <input id="input-organization" type="text" name="organization" />
+    <input id="input-organization" type="text" name="MERGE3" />
   </p>
   <p>
     <label for="input-url">Website</label>
     <input
       id="input-url"
       type="url"
-      name="url"
+      name="MERGE4"
       onblur="prependProtocol(this)"
       novalidate
     />
   </p>
 
-  <div data-netlify-recaptcha="true"></div>
   <p>
-    <button type="submit">Submit</button>
+    <button type="submit"><%= submitLabel || 'Submit' %></button>
   </p>
 </form>

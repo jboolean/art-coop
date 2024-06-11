@@ -26,7 +26,7 @@ Live Stream Steward, HowlRound Theatre Commons
 
 ### Mailing list
 
-<%- include('/email-signup-form') %>
+<%- include('/email-signup-form', {submitLabel: 'Submit'}) %>
 
 Email: [CulturalEconomyWeWant@gmail.com](mailto:CulturalEconomyWeWant@gmail.com)
 

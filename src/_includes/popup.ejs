@@ -18,54 +18,6 @@
       site.
     </p>
 
-    <form
-      method="POST"
-      data-netlify="true"
-      name="pdf-download"
-      enctype="application/x-www-form-urlencoded"
-    >
-      <input type="hidden" name="pdf" />
-      <p>
-        <label for="input-email">Email address</label>
-        <input
-          id="input-email"
-          type="email"
-          name="email"
-          placeholder="me@example.coop"
-          required
-        />
-      </p>
-      <fieldset class="inline-field-group">
-        <p>
-          <label for="input-first">First name</label>
-          <input id="input-first" type="text" name="first-name" required />
-        </p>
-        <p>
-          <label for="input-last">Last name</label>
-          <input id="input-last" type="text" name="last-name" required />
-        </p>
-      </fieldset>
-      <p>
-        <label for="input-affilliation"
-          >Are you affiliated with a collective, nonprofit, or school? If so,
-          please list them, here.
-        </label>
-        <input id="input-affilliation" type="text" name="affilliation" />
-      </p>
-      <p>
-        <label for="input-url">Website</label>
-        <input
-          id="input-url"
-          type="url"
-          name="url"
-          onblur="prependProtocol(this)"
-          novalidate
-        />
-      </p>
-
-      <p>
-        <button type="submit">Submit & Download</button>
-      </p>
-    </form>
+    <%- include('/email-signup-form', {submitLabel: 'Submit & Download'}) %>
   </div>
 </div>
